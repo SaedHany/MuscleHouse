@@ -1,0 +1,6 @@
+{
+  "name": "Muscle House",
+  "description": "A premium dark-themed landing page for the Muscle House fitness application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
