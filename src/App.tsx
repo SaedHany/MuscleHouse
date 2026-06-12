@@ -46,7 +46,7 @@ export default function App() {
               {theme === 'light' ? <Moon className="w-5 h-5" /> : <Sun className="w-5 h-5" />}
             </button>
             <a 
-              href="https://drive.google.com/file/d/1xx6PJq25tgUBlHvC5dF7h2PetxztyR2Z/view"
+              href="https://www.mediafire.com/file/3k0vaplbqoofo11/Muscle+House.apk/file"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-primary text-black px-5 py-2 rounded-lg font-bold text-sm shadow-[0_0_20px_rgba(234,179,8,0.2)] inline-flex items-center justify-center transition-all duration-300 hover:scale-105 cursor-pointer"
